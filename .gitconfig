@@ -1,0 +1,6 @@
+[user]
+	name = ravithanu
+	email = ravi.t@gmail.com
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\touts-8\\Documents\\gitignore_global.txt
